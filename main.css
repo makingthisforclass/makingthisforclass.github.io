@@ -61,8 +61,3 @@ a:hover {
 	bottom: 0;
 	width: 100%;
 }
-
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
