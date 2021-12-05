@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 10%;
+	background-color: black;
+	line-height: 1.5
+}
+
+h1 {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: normal;
+	font-size-adjust: auto;
+	font-size: 50pt
+}
+
+h2 {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: normal;
+	font-size: 30pt
+}
+
+h3 {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: normal;
+	font-size: 20pt;
+}
+
+p {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: normal;
+	font-size: 14pt;
+}
+
+a {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: normal;
+	font-size: 14pt;
+	text-decoration: none
+}
+
+a:hover {
+  color: lightslategrey;
+}
+
+.logo {
+	padding-bottom: 5%
+}
+
+.section {
+	padding-bottom: 2.5%
+}
+
+.footer {
+	padding-top: 30%;
+}
