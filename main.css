@@ -12,6 +12,7 @@ h1 {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: normal;
 	font-size-adjust: auto;
+	padding-bottom: 20px;
 	font-size: 50pt
 }
 
@@ -19,28 +20,36 @@ h2 {
 	color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: normal;
-	font-size: 30pt
+	font-size-adjust: auto;
+	font-size: 30pt;
+	padding-bottom: 20px;
 }
 
 h3 {
 	color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: normal;
+	font-size-adjust: auto;
 	font-size: 20pt;
+	padding-bottom: 20px;
 }
 
 p {
 	color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: normal;
+	font-size-adjust: auto;
 	font-size: 14pt;
+	padding-bottom: 20px;
 }
 
 a {
 	color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: normal;
+	font-size-adjust: auto;
 	font-size: 14pt;
+	padding-bottom: 20px;
 	text-decoration: none
 }
 
