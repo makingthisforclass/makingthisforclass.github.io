@@ -56,6 +56,11 @@ a:hover {
 	padding-bottom: 2.5%
 }
 
+.qr {
+	padding-bottom: 2.5%;
+	padding-top: 2.5%;
+}
+
 .footer {
 	padding-top: 30%;
 }
