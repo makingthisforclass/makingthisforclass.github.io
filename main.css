@@ -61,7 +61,6 @@ a:hover {
 }
 
 img {
-	object-fit: cover;
-	width: 30vh;
-	height: 30vh;
+	width: 40vh;
+	height: 40vh;
 }
